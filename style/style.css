@@ -1,0 +1,31 @@
+body {
+    font-size: 20px;
+}
+
+.space {
+    height: 25px;
+}
+
+.container_rate {
+    text-align: left;
+}
+
+hr {
+    width: 700px;
+}
+
+/* кнопка удаления записи из таблицы */
+button {
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
